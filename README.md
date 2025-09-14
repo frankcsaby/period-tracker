@@ -12,24 +12,7 @@
     <meta name="theme-color" content="#ff6b9d">
     
     <!-- PWA Icons -->
-    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%23ff6b9d'/><text x='50' y='65' text-anchor='middle' font-family='system-ui' font-size='40' fill='white'>🌸</text></svg>">
-    
-    <!-- Manifest -->
-    <link rel="manifest" href="data:application/json,{
-        'name': 'Flow - Period Tracker',
-        'short_name': 'Flow',
-        'start_url': '/',
-        'display': 'standalone',
-        'background_color': '#ffffff',
-        'theme_color': '#ff6b9d',
-        'orientation': 'portrait',
-        'icons': [{
-            'src': 'data:image/svg+xml,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"%23ff6b9d\"/><text x=\"256\" y=\"320\" text-anchor=\"middle\" font-family=\"system-ui\" font-size=\"200\" fill=\"white\">🌸</text></svg>',
-            'sizes': '512x512',
-            'type': 'image/svg+xml',
-            'purpose': 'any maskable'
-        }]
-    }">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%23ff6b9d'/><text x='50' y='65' text-anchor='middle' font-family='system-ui' font-size='40' fill='white'>🌸</text></svg>"
     
     <style>
         * {
